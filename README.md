@@ -12,11 +12,17 @@ Install [Flutter SDK](https://docs.flutter.dev/get-started/install) if your mach
 
 Follow the instructions provided.
 
+After installing, run:
+
+```
+flutter pub get
+```
+
 - ## Device
 
   - ### Android
 
-    - Install on your device via APK in the apk folder in this file or by running the application using this file.
+    - Install on your device via APK in the [apk folder in this file or by running the application using this file.
 
   - ### iOS
 
